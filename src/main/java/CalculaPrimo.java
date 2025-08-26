@@ -1,8 +1,8 @@
-
 public class CalculaPrimo {
 
     /**
      * Verifica se um número é primo.
+     *
      * @param n Número a ser verificado.
      * @return true se o número é primo caso contrário false.
      */
@@ -41,6 +41,7 @@ public class CalculaPrimo {
 
     /**
      * Método que verifica e imprime os números primos entre inicio e fim
+     *
      * @param inicio Valor de início do intervalo.
      * @param fim Valor de fim do intervalo.
      */
