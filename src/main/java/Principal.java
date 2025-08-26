@@ -15,9 +15,9 @@ public class Principal {
 //        long fim = leitor.nextInt();
 
         long inicio = 10;  // Valor inicial do intervalo
-        long fim = 50;     // Valor final do intervalo
+        long fim = 50000;     // Valor final do intervalo
 
-        System.out.println("Números prmos entre " + inicio + " e " + fim + ":");
+        System.out.println("Números primos intervalo " + inicio + " e " + fim + ":");
 
         CalculaPrimo cp = new CalculaPrimo();
 
